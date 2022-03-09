@@ -9,7 +9,7 @@ Pages
  - Login page
  - Indivisual product pages (6)
 
-***Note: ***
+***Note:***
  - All images are optimized for better loading time,Some might be missed or still not optimized properly Which increase the loading time.
  - **You can find All Screenshots in Screenshots folder**
 
