@@ -23,4 +23,4 @@ Pages
 ![image](https://user-images.githubusercontent.com/64340477/157395395-ba5bae38-8ef0-4a41-b855-e05912a02332.png)
 **Sign in**
 ![image](https://user-images.githubusercontent.com/64340477/157395457-d2ac603c-24c9-4bff-96ba-1a16f5317919.png)
-
+***Note: All images are optimized for better loading time,Some might be missed or still not optimized properly Which increase the loading time.***
