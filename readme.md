@@ -9,8 +9,9 @@ Pages
  - Login page
  - Indivisual product pages (6)
 
-***Note: All images are optimized for better loading time,Some might be missed or still not optimized properly Which increase the loading time.***
-**You can find All Screenshots in Screenshots folder**
+***Note: ***
+ - All images are optimized for better loading time,Some might be missed or still not optimized properly Which increase the loading time.
+ - **You can find All Screenshots in Screenshots folder**
 
 **Index page**
  ![image](https://user-images.githubusercontent.com/64340477/157395011-bd6b8185-902f-4148-9365-b7da742f8505.png)
