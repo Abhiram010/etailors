@@ -9,7 +9,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200;300;400&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="Styles/style.css">
+    <link rel="stylesheet" href="styles/style.css">
     <style>
         .rev {
             flex-direction: row-reverse;
@@ -28,6 +28,38 @@
 
         .welcome {
             margin: 1rem 0;
+        }
+
+        @media screen and (max-width:800px) {
+            .welcome {
+                justify-content: center !important;
+                align-items: center !important;
+            }
+
+            .rev {
+                justify-content: center !important;
+                align-items: center !important;
+            }
+
+            .welcome img {
+                height: auto;
+            }
+
+            .rev {
+                flex-direction: row-reverse;
+                align-items: center;
+            }
+
+            .about_column {
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+            }
+
+            .end_rev {
+                align-items: center;
+            }
+
         }
     </style>
 </head>

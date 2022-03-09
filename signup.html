@@ -9,7 +9,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200;300;400&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="Styles/style.css">
+    <link rel="stylesheet" href="styles/style.css">
     <style>
         .welcome img {
             height: 35rem;
@@ -85,6 +85,40 @@
                 height: auto;
             }
 
+        }
+
+        @media screen and (max-width:800px) {
+            .contact_img {
+                height: 25rem;
+            }
+
+            .contact_us {
+                width: 98vw;
+            }
+
+            .contact_us input,
+            textarea {
+                margin: 8px;
+                width: 80vw;
+                background: none;
+                border: none;
+                outline: none;
+                cursor: pointer;
+                height: 1.5rem;
+                border-bottom: solid 1px #e54466;
+            }
+
+            .contact_us button {
+                margin: 10px;
+                width: 80vw;
+                padding: 10px 20px;
+                font-size: large;
+
+            }
+
+            .welcome img {
+                height: auto;
+            }
         }
     </style>
 </head>
