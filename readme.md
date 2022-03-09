@@ -1,4 +1,4 @@
-***Fully responsive Website*** <br>
+***Fully responsive Ecommerce Website*** <br>
 This folder Consists of Files of Etailors Website Which is live: https://gmritchapter.acm.org/abhiram/etailors/
 Pages 
  - Landing page
