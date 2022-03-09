@@ -1,3 +1,4 @@
+***Fully responsive Website***
 This folder Consists of Files of Etailors Website Which is hosted at : https://gmritchapter.acm.org/abhiram/etailors/
 Pages 
  - Landing page
