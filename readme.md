@@ -24,8 +24,5 @@ Pages
 **Sign in**
 ![image](https://user-images.githubusercontent.com/64340477/157395457-d2ac603c-24c9-4bff-96ba-1a16f5317919.png)
 
-**Reponsive designs**
-![image](https://user-images.githubusercontent.com/64340477/157395613-fc8217c5-788c-4ae6-916c-a246d8045c5d.png)
-![image](https://user-images.githubusercontent.com/64340477/157395782-cab90937-7b0a-4a95-9328-cdf25484e0f2.png)
 And please find other Screenshots in Screenshots folder
 
